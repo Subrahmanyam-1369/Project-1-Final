@@ -39,3 +39,4 @@ else
     exit 1
 fi
 
+echo 🔄 Pulling latest changes... | tee -a logs/deploy.log
