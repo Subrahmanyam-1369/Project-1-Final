@@ -535,3 +535,17 @@
 127.0.0.1 - - [27/Mar/2025 12:04:03] "GET / HTTP/1.1" 200 -
 ✅ App is running fine (HTTP 200)
 ===== [Deploy Manager] Completed =====
+🔄 Pulling latest changes...
+📦 Backup created at /home/ec2-user/CI-CD/backups/backup_20250327_120601
+🌐 Serving static HTML on port 3000...
+✅ Static server started.
+127.0.0.1 - - [27/Mar/2025 12:06:03] "GET / HTTP/1.1" 200 -
+✅ App is running fine (HTTP 200)
+===== [Deploy Manager] Completed =====
+🔄 Pulling latest changes...
+📦 Backup created at /home/ec2-user/CI-CD/backups/backup_20250327_120801
+🌐 Serving static HTML on port 3000...
+✅ Static server started.
+127.0.0.1 - - [27/Mar/2025 12:08:04] "GET / HTTP/1.1" 200 -
+✅ App is running fine (HTTP 200)
+===== [Deploy Manager] Completed =====
